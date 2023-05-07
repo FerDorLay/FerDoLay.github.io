@@ -3,13 +3,13 @@
 
 # INDICE
 * [Intro](https://github.com/FerDorLay/Google-Clone/blob/main/README.md#intro)
-* [Qué construi]()
-* [Objetivos del proyecto]()
-* [Link al Demo!]()
+* [Qué construi](https://github.com/FerDorLay/Google-Clone/blob/main/README.md#qu%C3%A9-constru%C3%AD)
+* [Objetivos del proyecto](https://github.com/FerDorLay/Google-Clone/edit/main/README.md#objetivo-del-proyecto)
+* [Link al Demo!](https://github.com/FerDorLay/Google-Clone/edit/main/README.md#link-al-demo)
 ***
 
 
-## [Intro]
+## Intro
 HTML o Hypertext Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web usadas todos los días en el navegador. Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologias.
 En este proyecto, se utilizo HTML y CSS para construir una clonación de la interfaz de google.
 
