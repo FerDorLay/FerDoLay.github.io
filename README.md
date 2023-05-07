@@ -26,8 +26,8 @@ El proyecto esta enfocado en la construcción de la interfaz de Google, tomando 
 Aprender a utilizar las etiquetas de HTML5 y las pripiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
 ## Link al Demo!
-Visualiza mi proyecto terminado aquí 🟥🟦[Clonación de Google]🟦🟥
-https://ferdorlay.github.io/Google-Clone/
+Visualiza mi proyecto terminado aquí 
+🟥🟦 https://ferdorlay.github.io/Google-Clone/ 🟦🟥
 
 
 
