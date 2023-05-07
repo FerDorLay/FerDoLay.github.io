@@ -2,7 +2,7 @@
 ### Clonación de la interfaz de Google creado con HTML5 Y CSS3 en el Bootcamp de TecnolochicasPro
 
 # INDICE
-* [Intro]()
+* [Intro](https://github.com/FerDorLay/Google-Clone/blob/main/README.md#intro)
 * [Qué construi]()
 * [Objetivos del proyecto]()
 * [Link al Demo!]()
